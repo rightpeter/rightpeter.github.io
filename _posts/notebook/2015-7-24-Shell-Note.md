@@ -1,10 +1,11 @@
 ---
 layout: post
-category: note
-tagline: "Shell Note"
-tags: [Shell]
+title: "Shell Note"
+subtitle: ""
+date: 2015-7-24 12:00:00
+author: "rightpeter"
+header-img: ""
 ---
-{% include JB/setup %}
 
 # Vim mode in Bash
 

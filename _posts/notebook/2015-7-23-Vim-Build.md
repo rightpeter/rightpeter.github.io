@@ -1,10 +1,11 @@
 ---
 layout: post
-category: note
-tagline: "Vim Build"
-tags: [Vim]
+title: "Vim Note"
+subtitle: ""
+date: 2015-7-23 12:00:00
+author: "rightpeter"
+header-img: ""
 ---
-{% include JB/setup %}
 
 # [Python syntax highlighting](http://www.vim.org/scripts/script.php?script_id=790)
 

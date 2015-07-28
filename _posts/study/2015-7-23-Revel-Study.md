@@ -1,10 +1,11 @@
 ---
 layout: post
-category: study
-tagline: "Revel Study"
-tags: [Revel, go]
+title: "Revel Study"
+subtitle: ""
+date: 2015-7-23 12:00:00
+author: "rightpeter"
+header-img: ""
 ---
-{% include JB/setup %}
 
 # Install Go
 

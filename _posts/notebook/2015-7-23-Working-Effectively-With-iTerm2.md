@@ -1,10 +1,11 @@
 ---
 layout: post
-category: note
-tagline: "Working Effectively With iTerm2"
-tags: [iTerm, terminal, mac]
+title: "Working Effectively With iTerm2"
+subtitle: ""
+date: 2015-7-23 12:00:00
+author: "rightpeter"
+header-img: ""
 ---
-{% include JB/setup %}
 
 **Reprinted From [http://teohm.com/blog/2012/03/22/working-effectively-with-iterm2/](http://teohm.com/blog/2012/03/22/working-effectively-with-iterm2/)**
 
