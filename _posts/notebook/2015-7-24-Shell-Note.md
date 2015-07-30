@@ -47,3 +47,7 @@ positions on a line:
  * `e` - Move to the end of the next word
 
 - - - -
+
+# powerline-shell
+
+[powerline-shell](https://github.com/milkbikis/powerline-shell)

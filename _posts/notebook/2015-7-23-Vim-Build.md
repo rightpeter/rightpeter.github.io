@@ -199,6 +199,11 @@ completion (completion by type) install YCM:
     $ cd YouCompleteMe
     $ ./install.sh
 
+See more about vim-go in [GOPHER
+ACADEMY](http://blog.gopheracademy.com/vimgo-development-environment/)
+
+- - - -
+
 # New tab from existing mvim window
 
     $ mvim --remote-tab filename
@@ -213,6 +218,8 @@ If you want to open a tab in a specific instance, check its name at the top of
 the window. Assuming it's `VIM1`, do:
 
     $ mvim --servername VIM1 --remote-tab .profile
+
+- - - -
 
 # MacVim Transparent
 
@@ -405,3 +412,24 @@ these two highlight groups are visually distinct or you won't be able to easily
 tell which match Vim is prompting you to substitute.
 
 See [wikia](http://vim.wikia.com/wiki/Search_and_replace) for more detail.
+
+- - - -
+
+# Programming with Go in Vim
+
+Reference to [myitcv](http://blog.myitcv.org.uk/2014/03/03/programming-with-go-in-vim.html)
+
+- - - -
+
+# NERDTree settings in vimrc
+
+    silent! nmap <C-p> :NERDTreeToggle<CR>
+    silent! map <F2> :NERDTreeFind<CR>
+
+    let g:NERDTreeMapActivateNode="<F2>"
+    let g:NERDTreeMapPreview="<F3>"
+
+`F2` will open NERDTree panel and highlight current file. And when you're in
+the NERDTree panel, `F2` will open file under cursor. So, I can use one button
+to jump between buffer and NERDTree. (And `F2` for preview because it's next to
+`F3`)
