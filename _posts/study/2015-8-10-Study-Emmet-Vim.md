@@ -19,6 +19,8 @@ Type the abbreviation as `div>p#foo$*3>a` and type `<c-y>,`.
         <p id="foo3"><a href=""></a></p>
     </div>
 
+- - - -
+
 # Wrap with an Abbreviation
 
 Write as below.
@@ -45,23 +47,33 @@ If you type a tag, such as `blockquote`, then you'll see the following:
         test3
     </blockquote>
 
+- - - -
+
 # Balance a Tag Inwar
 
 Type `<c-y>d` in insert mode.
+
+- - - -
 
 # Balance a Tag Outward
 
 Type `<c-y>D` in insert mode.
 
+- - - -
+
 # Go to the Next Edit Point
 
 Type `<c-y>n` in insert mode.
+
+- - - -
 
 # Go to the Previous Edit Point
 
 Type `<c-y>N` in insert mode.
 
-# Update an `<img>'s Size
+- - - -
+
+# Update an `<img>`'s Size
 
 Move cursor to the img tag.
 
@@ -70,6 +82,8 @@ Move cursor to the img tag.
 Type `<c-y>i` on img tag
 
     <img src="foo.png" width="32" height="48" />
+
+- - - -
 
 # Merge Lines
 
@@ -86,6 +100,8 @@ and then type `<c-y>m`
     <ul>
         <li class="List1"></li><li class="List2"></li><li class="List3"></li>
     </ul>
+
+- - - -
 
 # Remove a Tag
 
@@ -105,6 +121,8 @@ And type `<c-y>k` in there again
 
     - - - -
 
+- - - -
+
 # Split/Join Tag
 
 Move the cursor inside block
@@ -121,6 +139,8 @@ And then type `<c-y>j` in there again.
 
     <div class="foo">
     </div>
+
+- - - -
 
 # Toggle Comment
 
@@ -142,6 +162,8 @@ Type `<c-y>/` in there again.
         hello world
     </div>
 
+- - - -
+
 # Make an anchor from a URL
 
 Move cursor to URL
@@ -155,6 +177,8 @@ Type `<c-y>A`
         <p>Use at least one lowercase letter, one numeral, and seven characters. Sign up for GitHub By clicking...</p>
         <cite>http://github.com/</cite>
     </blockquote>
+
+- - - -
 
 # Installing emmet.vim for the language you are using:
 
@@ -170,6 +194,8 @@ Or if you get the sources from the repository:
 
     # cd ~/.vim/bundle # or make directory
     # git clone http://github.com/mattn/emmet-vim.git
+
+- - - -
 
 # Enable emmet.vim for the language you using.
 
