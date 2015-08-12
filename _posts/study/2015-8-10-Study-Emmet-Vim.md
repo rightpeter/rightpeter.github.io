@@ -61,7 +61,7 @@ Type `<c-y>n` in insert mode.
 
 Type `<c-y>N` in insert mode.
 
-# Update an <img>'s Size
+# Update an `<img>'s Size
 
 Move cursor to the img tag.
 
@@ -103,7 +103,8 @@ Type `<c-y>k` in insert mode.
 
 And type `<c-y>k` in there again
 
-    
+    - - - -
+
 # Split/Join Tag
 
 Move the cursor inside block
