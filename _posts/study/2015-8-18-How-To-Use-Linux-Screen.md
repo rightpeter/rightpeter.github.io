@@ -2,7 +2,7 @@
 layout: post
 title: "How-To-Use-Linux-Screen"
 subtitle: ""
-date: 2015-7-23 12:00:00
+date: 2015-8-18 10:00:00
 author: "rightpeter"
 header-img: ""
 ---
@@ -242,3 +242,4 @@ Thx!
 # 中文博文
 
 [cnblogs](http://www.cnblogs.com/mchina/archive/2013/01/30/2880680.html)
+[liaofeng-xiao's blog](http://liaofeng-xiao.iteye.com/blog/1757267)
