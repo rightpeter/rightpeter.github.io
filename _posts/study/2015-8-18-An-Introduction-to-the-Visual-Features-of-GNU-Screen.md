@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "Markdown-Study"
+title: "An-Introduction-to-the-Visual-Features-of-GNU-Screen"
 subtitle: ""
 date: 2015-8-18 14:00:00
 author: "rightpeter"
